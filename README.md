@@ -83,14 +83,52 @@ Execute the program using runserver command.
                 <td>C</td>
                 <td>web</td>
             </tr>
+    <center> 
+        <table border="4px" width="300" height="400">
+                <tr>
+                    <th style="background-color: #9ba8ab;"> S.NO </th>
+                    <th style="background-color: #9ba8ab;">  Subject Name </th>
+                    <th style="background-color: #9ba8ab;"> Subject Code </th>
+                </tr>
+                <tr>
+                    <th> 1. </th>
+                    <td> Fundamentals of web applications </td>
+                    <td> 19AI414 </td>
+                </tr>
+                <tr>
+                    <th> 2. </th>
+                    <td> Maths for AI/python/linear algebra </td>
+                    <td> 19AI301 </td>
+                </tr>
+                <tr>
+                    <th> 3. </th>
+                    <td>Communicative English </td>
+                    <td> 19EN101 </td>
+                </tr>
+                <tr>
+                    <th> 4. </th>
+                    <td> Career Development skill </td>
+                    <td> 19EY708 </td>
+                </tr>
+                <tr>
+                    <th> 5. </th>
+                    <td> Career Development Skills</td>
+                    <td> 19EY708 </td>
+                 </tr>
+                 <tr>
+                    <th> 6. </th>
+                    <td> Physics For Quantum Computing </td>
+                    <td> SH3214 </td>
+                 </tr>   
         </table>
     </center>
     </body>
 </html>
-
 ````
 # OUTPUT
-![Screenshot 2024-11-28 132537](https://github.com/user-attachments/assets/63b43ffa-2f6f-4a7f-ac79-1942c8ac8d24)
+![Screenshot 2024-11-28 133529](https://github.com/user-attachments/assets/6c397c0f-ab92-4a4d-b9a5-b3a9acad4dc1)
+
+
 
 
 # RESULT

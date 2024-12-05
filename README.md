@@ -33,6 +33,7 @@ Execute the program using runserver command.
 </head>
     <body style="color: rgb(1, 29, 29);">
         <center><table border="3px">
+            <img src="saveetha image.png" alt="">
             <tr style="color: black;">
                 <th>timing</th>
                 <th>8-10</th>
@@ -126,7 +127,9 @@ Execute the program using runserver command.
 </html>
 ````
 # OUTPUT
-![Screenshot 2024-11-28 133529](https://github.com/user-attachments/assets/6c397c0f-ab92-4a4d-b9a5-b3a9acad4dc1)
+![image](https://github.com/user-attachments/assets/157d30cc-f765-4594-a5a8-88e7e2e663cc)
+
+
 
 
 

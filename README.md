@@ -25,129 +25,110 @@ Execute the program using runserver command.
 # PROGRAM
 ```
 <!DOCTYPE html>
-<html>
-
+<html lang="en">
 <head>
-    <title>Timetable</title>
-    <style>
-        body {
-             font-family:Arial, 
- sans-serif;
-             background-color:
- #f8f9fa;
-             margin: 0;
-             padding: 0;
-        }
-        h1 {
-            text-align: center;
-            color: #343a40;
-        }
-
-        table {
-            border-collapse:
-  collapse;
-            margin: 20px auto;
-            background-color:
-  #fff;
-            border: 2px solid
-  #dee2e6;
-            box-shadow: 0 2px 4px
- rgba(0, 0, 0, 0.1);
-        }
-
-        th,
-        td {
-            border: 1px solid
-  #dee2e6;
-             padding: 10px;
-             text-align: center; 
-            }
-
-            th{
-                background-color:
-  #f8f9fa;
-            }
-
-            .special {
-                background-color:
-   #f0f0f0;
-            }
-        </style>
-      </head>
-
-      <body>
-          <h1>time table</h1>
-          <table>
-    
-   <tr>
-    <th>Days/Time</th>
-    <th> 8-10 </th>
-    <th> 10-12 </th>
-    <th> 12-1 </th>
-    <th> 1-3 </th>
-    <th> 3-5 </th>
-   </tr>
-
-   <tr>
-     <th>Monday</th>
-     <td></td>
-     <td>Web</td>
-     <td>Break</td>
-     <td>French</td>
-     <td></td>
-    </tr>
-
-    <tr>
-      <th>Tuesday</th>
-      <td></td>
-      <td>Physics</td>
-      <td>Break</td>
-      <td>Python</td>
-      <td></td>
-     </tr>
-
-     <tr>
-        <th>Wednesday</th>
-        <td>Python</td>
-        <td></td>
-        <td>Break</td>
-        <td>Mentor meeting</td>
-        <td>Chemistry</td>
-       </tr> 
-
-       <tr>
-         <th>Thursday</th>
-         <td>French</td>
-         <td>Python</td>
-         <td>Break</td>
-         <td>Web</td>
-         <td></td>
-        </tr>
-
-        <tr>
-           <th>Friday</th> 
-           <td>Physics</td>
-           <td></td>
-           <td>Break</td>
-           <td>Yoga</td>
-           <td></td>
-          </tr>
-
-          <tr>
-            <th>Saturday</th>
-            <td>French</td>
-            <td>Python</td>
-            <td>Break</td>
-            <td>Chemistry</td>
-            <td>Web</td>
-           </tr> 
-    </table>
-
-</body>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+    <body style="color: rgb(1, 29, 29);">
+        <center><table border="3px">
+            <img src="saveetha image.png" alt="">
+            <tr style="color: black;">
+                <th>timing</th>
+                <th>8-10</th>
+                <th>10-12</th> 
+                <td rowspan="7">LUNCH</td>    
+                <th>1-3</th>       
+                <th>3-5</th>
+            </tr>
+            <tr>
+                <th>MON</th>
+                <td></td>
+                <td>web</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="font-family: ;">
+                <th>TUE</th>
+                <td>ENG</td>
+                <td></td>
+                <td>python</td>
+                <td></td>
+            </tr>
+            <tr>
+                <th>WED</th>
+                <td>python</td>
+                <td>C</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th>THUR</th>
+                <td>PHYSICS</td>
+                <td>python</td>
+                <td>web</td>
+                <td></td>
+            </tr>
+            <tr>
+                <th>FRI</th>
+                <td>english</td>
+                <td>career</td>
+                <td>python</td>
+                <td></td>
+            </tr>
+            <tr>
+                <th>SAT</th>
+                <td></td>
+                <td>python</td>
+                <td>C</td>
+                <td>web</td>
+            </tr>
+    <center> 
+        <table border="4px" width="300" height="400">
+                <tr>
+                    <th style="background-color: #9ba8ab;"> S.NO </th>
+                    <th style="background-color: #9ba8ab;">  Subject Name </th>
+                    <th style="background-color: #9ba8ab;"> Subject Code </th>
+                </tr>
+                <tr>
+                    <th> 1. </th>
+                    <td> Fundamentals of web applications </td>
+                    <td> 19AI414 </td>
+                </tr>
+                <tr>
+                    <th> 2. </th>
+                    <td> Maths for AI/python/linear algebra </td>
+                    <td> 19AI301 </td>
+                </tr>
+                <tr>
+                    <th> 3. </th>
+                    <td>Communicative English </td>
+                    <td> 19EN101 </td>
+                </tr>
+                <tr>
+                    <th> 4. </th>
+                    <td> Career Development skill </td>
+                    <td> 19EY708 </td>
+                </tr>
+                <tr>
+                    <th> 5. </th>
+                    <td> Career Development Skills</td>
+                    <td> 19EY708 </td>
+                 </tr>
+                 <tr>
+                    <th> 6. </th>
+                    <td> Physics For Quantum Computing </td>
+                    <td> SH3214 </td>
+                 </tr>   
+        </table>
+    </center>
+    </body>
 </html>
 ```
 # OUTPUT
-![Screenshot 2024-11-28 143305](https://github.com/user-attachments/assets/99de5a13-ce96-4234-8a00-d410f1f69b06)
+![Screenshot 2024-12-16 114330](https://github.com/user-attachments/assets/780e33d8-ff9c-4a8f-8835-5fcf7977efee)
+
 
 # RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
